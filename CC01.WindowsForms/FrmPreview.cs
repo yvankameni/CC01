@@ -45,6 +45,7 @@ namespace CC01.WindowsForms
             this.reportViewer1.ZoomMode = Microsoft.Reporting.WinForms.ZoomMode.Percent;
             this.reportViewer1.ZoomPercent = 100;
             this.reportViewer1.RefreshReport();
+
         }
     }
 }
